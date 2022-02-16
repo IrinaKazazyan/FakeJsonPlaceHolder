@@ -1,17 +1,19 @@
-[
-  {
-    "id": 0,
-    "radioUrl": "https://25333.live.streamtheworld.com/100PNL_MP3_SC",
-    "imageUrl": "xperia-launcher-download"
-  },
-  {
-    "id": 1,
-    "radioUrl": "post",
-    "imageUrl": "https://22593.live.streamtheworld.com/SLAM_MP3_SC"
-  },
-  {
-    "id": 2,
-    "radioUrl": "post",
-    "imageUrl": "https://25293.live.streamtheworld.com/WEB01_MP3_SC"
-  }
-]
+{
+  "stations": [
+    {
+      "id": 0,
+      "radioUrl": "https://25333.live.streamtheworld.com/100PNL_MP3_SC",
+      "imageUrl": "xperia-launcher-download"
+    },
+    {
+      "id": 1,
+      "radioUrl": "post",
+      "imageUrl": "https://22593.live.streamtheworld.com/SLAM_MP3_SC"
+    },
+    {
+      "id": 2,
+      "radioUrl": "post",
+      "imageUrl": "https://25293.live.streamtheworld.com/WEB01_MP3_SC"
+    }
+  ]
+}
